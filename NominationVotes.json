@@ -345,29 +345,6 @@
       "未提名":   0
     }
   },{
-    "名字":   "飲食",
-    "界別":    1,
-    "總議席":  17,
-    "議席":    17,
-    "林鄭月娥": 17,
-    "曾俊華":   0,
-    "胡國興":   0,
-    "未提名":   0,
-    "非民主":  {
-      "Total":   17,
-      "林鄭月娥": 17,
-      "曾俊華":   0,
-      "胡國興":   0,
-      "未提名":   0
-    },
-    "民主300":{
-      "Total": 0,
-      "林鄭月娥": 0,
-      "曾俊華":   0,
-      "胡國興":   0,
-      "未提名":   0
-    }
-  },{
     "名字":   "僱主聯會",
     "界別":    1,
     "總議席":  16,
@@ -967,3 +944,7 @@
     }
   }]
 }
+
+
+
+<div style="text-align: center;"><div class="nav-gradient-bg" style="text-align: center; padding: 1em; display: inline-block;"><a style="text-decoration: none; color: white;" title="訂閱《眾新聞》" href=" https://www.hkcnews.com/aboutus/#subscribe" target="_blank">請支持《眾新聞》，立即按此訂閱成為我們的訂戶</a></div></div>
